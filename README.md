@@ -3,16 +3,20 @@
 > **ACA SIMULATOR**
 
 
-## project structure:
+
+## Project structure:
 - aca
-  - source code of simulator  
-- aca-config
-  - rules and configurations
-    
+  - source code of simulator
+  - aca-config
+  - rules 
 - run
   - binaray files of simulator
-  
-## how to run
+- Demo videos
+
+## Preparatory Work:
+The aca simulator is implemented in Java，JDK version 1.8.
+
+## Simulation reversible triangle partitioned cellular automata（RPCA） on an alpha asynchronous cellular automata simulator
 
 you can run simulator with:
  - (1) aca.bat(windows) under run directory
@@ -34,6 +38,8 @@ after simulator frame started.
 
 then the simulate begin or stop.
 
+## Demo
+The Demo videos of merge, Fork, Tria and 2bit-Encoder could be found in "Demo.pptx".
 
 
 
